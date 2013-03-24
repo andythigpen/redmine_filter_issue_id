@@ -1,0 +1,11 @@
+= Redmine Filter Issue by ID
+
+Adds the ability to filter the issue list by ID and search for multiple issues via the search box.
+
+Tested only on Redmine 2.3.
+
+= Install
+http://www.redmine.org/projects/redmine/wiki/Plugins#Installing-a-plugin
+
+= Uninstall
+http://www.redmine.org/projects/redmine/wiki/Plugins#Uninstalling-a-plugin
