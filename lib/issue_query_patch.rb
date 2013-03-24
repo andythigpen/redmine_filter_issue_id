@@ -1,3 +1,4 @@
+# Only used for version 2.3
 require_dependency 'issue_query'
 
 module IssueQueryPatch
